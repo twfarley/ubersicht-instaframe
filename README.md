@@ -1,9 +1,9 @@
-# ubersicht-snapwidget
+# ubersicht-instaframe
 For displaying your Instagram photos in a slideshow on Ubersicht
 
 ## Installation
 
-Download the 'ubersicht-snapwidget' and move it to your widgets folder (default: ~/Library/Application Support/Übersicht/widgets).
+Download the 'ubersicht-instaframe.zip' and move it to your widgets folder (default: ~/Library/Application Support/Übersicht/widgets).
 
 Create a SnapWidget at https://snapwidget.com
 
